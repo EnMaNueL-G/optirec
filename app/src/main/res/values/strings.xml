@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OptiRec</string>
+
+    <string name="title_ready">Listo para grabar</string>
+    <string name="title_recording">GRABANDO</string>
+    <string name="title_armed">Atajo armado (doble Vol +)</string>
+
+    <string name="btn_start">Iniciar grabación</string>
+    <string name="btn_stop">Detener grabación</string>
+    <string name="btn_arm">Armar atajo doble Vol +</string>
+    <string name="btn_disarm">Desarmar atajo</string>
+    <string name="btn_view">Ver grabaciones</string>
+
+    <string name="label_mode">Modo</string>
+    <string name="label_camera">Cámara</string>
+    <string name="label_quality">Calidad (menor = menos calor)</string>
+    <string name="label_reliability">Fiabilidad en segundo plano</string>
+    <string name="torch">Linterna (cámara trasera)</string>
+
+    <string name="mode_video">Vídeo + audio</string>
+    <string name="mode_audio">Solo audio</string>
+
+    <string name="perm_grant">Conceder permisos</string>
+    <string name="battery_button">Quitar límite de batería</string>
+    <string name="oem_button">Guía anti-cierre (tu marca)</string>
+
+    <string name="notif_channel_name">Grabación OptiRec</string>
+    <string name="notif_channel_desc">Estado de la grabación en segundo plano</string>
+    <string name="notif_ready">Atajo activo — doble Vol + para grabar</string>
+    <string name="notif_recording">Grabando</string>
+    <string name="notif_action_stop">Salir</string>
+
+    <string name="saved_video">Guardado en la Galería (álbum OptiRec)</string>
+    <string name="saved_audio">Audio guardado (Grabaciones/OptiRec)</string>
+
+    <string name="legal_notice">Uso responsable: graba en tu propio dispositivo. Grabar a terceros sin su conocimiento puede ser ilegal según tu país. Eres el único responsable del uso legal.</string>
+    <string name="honest_notice">Android obliga a mostrar esta notificación y el punto verde de cámara/micrófono mientras se graba: no se pueden ocultar.</string>
+    <string name="audio_notice">El audio no aparece en el carrete de fotos; se guarda en Grabaciones/OptiRec (visible en el explorador de archivos o apps de audio).</string>
+</resources>

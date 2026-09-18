@@ -1,0 +1,25 @@
+# Android / Gradle
+*.iml
+.gradle/
+/local.properties
+.idea/
+build/
+app/build/
+/captures
+.externalNativeBuild
+.cxx/
+*.hprof
+
+# Secretos — NUNCA publicar
+keystore.properties
+*.jks
+*.keystore
+
+# Binarios (se publican en Releases, no en el repo)
+*.apk
+*.aab
+
+# Logs y temporales
+*.log
+release.log
+build_debug.log
