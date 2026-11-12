@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> **OptiRec ya no se mantiene: ahora se llama [Silora](https://optisuite.app/silora/).**
+> Silora v2.0.0 es la continuación de OptiRec, con nombre y logo nuevos, y añade **grabar con las dos cámaras a la vez** (trasera + frontal) con la pantalla apagada, además de varias correcciones.
+> Descárgala en **[optisuite.app/silora](https://optisuite.app/silora/)**. Este repositorio queda archivado como histórico (solo lectura).
+
 <div align="center">
 
 # OptiRec
